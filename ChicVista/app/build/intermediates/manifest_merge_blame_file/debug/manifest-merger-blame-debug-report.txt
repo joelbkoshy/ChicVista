@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.melbinmartincityguide"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.melbinmartincityguide.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.melbinmartincityguide.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:5:5-52:19
+18        android:allowBackup="true"
+18-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\joelb\.gradle\caches\transforms-3\2d36cdbeb90dfdfd402f076bef064238\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.CityGuide" >
+28-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:13:9-47
+29        <activity
+29-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:15:9-17:40
+30            android:name="com.melbinmartincityguide.Common.LoginSignup.SignUp3rdClass"
+30-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:16:13-62
+31            android:exported="false" />
+31-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:17:13-37
+32        <activity
+32-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:18:9-20:40
+33            android:name="com.melbinmartincityguide.Common.LoginSignup.SignUp2ndClass"
+33-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:19:13-62
+34            android:exported="false" />
+34-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:20:13-37
+35        <activity
+35-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:21:9-23:40
+36            android:name="com.melbinmartincityguide.Common.LoginSignup.SignUp"
+36-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:22:13-54
+37            android:exported="false" />
+37-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:23:13-37
+38        <activity
+38-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:24:9-26:40
+39            android:name="com.melbinmartincityguide.Common.LoginSignup.Login"
+39-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:25:13-53
+40            android:exported="false" />
+40-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:26:13-37
+41        <activity
+41-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:27:9-29:40
+42            android:name="com.melbinmartincityguide.Common.LoginSignup.RetailerStartUpScreen"
+42-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:28:13-69
+43            android:exported="false" />
+43-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:29:13-37
+44        <activity
+44-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:30:9-32:40
+45            android:name="com.melbinmartincityguide.User.AllCategories"
+45-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:31:13-47
+46            android:exported="false" />
+46-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:32:13-37
+47        <activity
+47-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:33:9-35:40
+48            android:name="com.melbinmartincityguide.Common.OnBoarding"
+48-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:34:13-46
+49            android:exported="false" />
+49-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:35:13-37
+50        <activity
+50-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:36:9-38:40
+51            android:name="com.melbinmartincityguide.User.UserDashboard"
+51-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:37:13-47
+52            android:exported="false" />
+52-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:38:13-37
+53        <activity
+53-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:39:9-47:20
+54            android:name="com.melbinmartincityguide.Common.SplashScreen"
+54-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:40:13-48
+55            android:exported="true" >
+55-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:41:13-36
+56            <intent-filter>
+56-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:42:13-46:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:43:17-69
+57-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:43:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:45:17-77
+59-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:45:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <meta-data
+63-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:49:9-51:57
+64            android:name="preloaded_fonts"
+64-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:50:13-43
+65            android:resource="@array/preloaded_fonts" />
+65-->D:\MCA\4th TRIMESTER\MOBILE APPLICATIONS\CityGuide\app\src\main\AndroidManifest.xml:51:13-54
+66
+67        <provider
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+69            android:authorities="com.melbinmartincityguide.androidx-startup"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+70            android:exported="false" >
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+73                android:value="androidx.startup" />
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\joelb\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+74            <meta-data
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\joelb\.gradle\caches\transforms-3\f7d8f15274dd8b4fe8a5f106a508708e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\joelb\.gradle\caches\transforms-3\f7d8f15274dd8b4fe8a5f106a508708e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+76                android:value="androidx.startup" />
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\joelb\.gradle\caches\transforms-3\f7d8f15274dd8b4fe8a5f106a508708e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+77        </provider>
+78    </application>
+79
+80</manifest>

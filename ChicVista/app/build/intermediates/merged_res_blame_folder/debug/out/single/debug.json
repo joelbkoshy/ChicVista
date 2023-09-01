@@ -1,0 +1,1146 @@
+[
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\font_alatsi.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\font\\alatsi.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_menu_header.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_school_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\school_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_park_avenue.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\park_avenue.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_featured_card_design.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\featured_card_design.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_round_bk2.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\round_bk2.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_most_viewed_card_design.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\most_viewed_card_design.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_dashboard_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_dashboard_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_education_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\education_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_general_back_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\general_back_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_splash_screen.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_city_1.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\city_1.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_search_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\search_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_share_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_share_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_rounded_corner.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_retailer_circle_black.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\retailer_circle_black.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_next_btn.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\next_btn.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_slides_layout.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_logo.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "com.melbinmartincityguide.app-merged_res-4:/layout_categories_card_design.xml.flat",
+        "source": "com.melbinmartincityguide.app-main-6:/layout/categories_card_design.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_add_missing_place_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_add_missing_place_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_transport_image.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\transport_image.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_design.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\design.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_tshirt2.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\tshirt2.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_email_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\email_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_gradient.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\gradient.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\anim_side_anim.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_retailer_sign_up.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_retailer_sign_up.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_men.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\men.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_card_1.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\card_1.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_phone_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\phone_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_round_bk3.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\round_bk3.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_restaurant_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\restaurant_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_school_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\school_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_all_categories.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_all_categories.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_retailer_start_up_screen.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_retailer_start_up_screen.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_menu_menu_logo_icon1.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\menu_menu_logo_icon1.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\anim_bottom_anim.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_airport_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\airport_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_hospital_image.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\hospital_image.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_search_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_search_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_hotel_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_categories_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\categories_shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_women.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\women.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_categories_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\categories_restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_profile_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_profile_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_on_boarding.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_bank_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\bank_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_missing_place_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\missing_place_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\menu_main_menu.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_women_kurta.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\women_kurta.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_add_missing_place.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\add_missing_place.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_user_dashboard.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_login_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_login_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_hotel_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\hotel_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_sign_up3rd_class.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_sign_up3rd_class.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_sit_back_and_relax.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_search_place.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\search_place.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_logo.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_share_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_share_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_make.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\make.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_menu_logo_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_menu_logo_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_logout_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_logout_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_pretty.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\pretty.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_rate_us_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_rate_us_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_categories_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_categories_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_categories_card_design.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\categories_card_design.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_retailer_login.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_retailer_login.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_shop_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\shop_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_splash.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_activity_sign_up2nd_class.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\activity_sign_up2nd_class.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_retailer_circle_black.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\retailer_circle_black.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_add_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_add_missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_gradinet.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\gradinet.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_teamo.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\teamo.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_categories_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_categories_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_round_bk5.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\round_bk5.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_school_image.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\school_image.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_field_full_name_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\field_full_name_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_boys.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\boys.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_car_rent_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\car_rent_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_winkboy.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\winkboy.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_shoes.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\shoes.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_half_cycle.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\half_cycle.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_category_gradient.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\category_gradient.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_field_full_name_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\field_full_name_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_shop_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\shop_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_airport_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\airport_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_tshirt.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\tshirt.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\layout_rounded_corner.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\layout\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_shopping_image.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\shopping_image.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_jeans.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\jeans.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_profile_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_profile_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_phone_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\phone_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_retailer_logow.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\retailer_logow.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_city_2.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\city_2.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_skip_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\skip_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_general_back_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\general_back_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_mcdonald_img.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\mcdonald_img.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_password_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_next_btn.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\next_btn.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_menu_menu_logo_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\menu_menu_logo_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_food_back.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\food_back.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_menu_rate_us_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\menu_rate_us_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_menu_dashboard_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\menu_dashboard_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_restaurant_image.jpg.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\restaurant_image.jpg"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-hdpi_menu_login_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-hdpi\\menu_login_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xhdpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xhdpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_restaurant_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\restaurant_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_education_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\education_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_skip_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\skip_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-mdpi_menu_search_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-mdpi\\menu_search_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_bank_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\bank_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_password_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\password_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable_black_border.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxxhdpi_email_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-ldpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-ldpi\\missing_place_icon.png"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-anydpi-v21_menu_logout_icon.xml.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-anydpi-v21\\menu_logout_icon.xml"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-merged_res-4:\\drawable-xxhdpi_missing_place_icon.png.flat",
+        "source": "D:\\MCA\\Android-Flight-Reservation-App-master\\Android-Flight-Reservation-App-master\\daemon\\8.0\\com.melbinmartincityguide.app-pngs-0:\\drawable-xxhdpi\\missing_place_icon.png"
+    }
+]
