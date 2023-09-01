@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+
+
+    <style name="Base.Theme.CityGuide" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+
+        <item name="colorPrimary">#000000</item>
+        <item name="colorControlHighlight">@color/Black</item>
+        <item name="android:datePickerStyle">@color/lightWhite</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="DatePickerStyle" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="colorAccent">@color/Black</item>
+    </style>
+
+    <style name="Theme.CityGuide" parent="Base.Theme.CityGuide" />
+
+
+
+
+</resources>

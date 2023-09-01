@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ChicVista</string>
+    <string name="logo_name">ChicVista</string>
+    <string name="slogan_name">Where Style Meets Panorama</string>
+    <string name="powered_by">Joel B Koshy</string>
+
+   <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Elevate Your Style, Unleash Your Confidence</string>
+    <string name="second_slide_title">Where Fashion Meets Passion</string>
+    <string name="third_slide_title">Discover Your Signature Look</string>
+    <string name="fourth_slide_title">Unveil the Extraordinary in You</string>
+
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">With a destination where you embark on a journey of self-discoveryh our fashion offerings, we invite you to explore new horizons of self-expression.</string>
+    <string name="second_slide_desc"> A destination where you embark on a journey of self-discovery</string>
+    <string name="third_slide_desc">A powerful tool that empowers individuals to express their true selves and radiate confidence in every step they take</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you donot have to worry about clothing.  </string>
+
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <string name="search_text">Search..</string>
+
+
+    <string name="restaurants">Boys</string>
+    <string name="hotel">hotel</string>
+    <string name="education">Men</string>
+    <string name="shops">Women</string>
+    <string name="banks">Girls</string>
+    <string name="schools">banks</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+
+    <string name="featured_location">Favourite Collections  </string>
+    <string name="featured_location_description">All clothes have high demand in town </string>
+    <string name="most_viewed_location">Most viewed </string>
+    <string name="view_all">View All</string>
+    <string name="categories">Categories</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="all_categories">All Categories</string>
+    <string name="add_missing_place">Shop Locations</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="car_rent">Boys</string>
+    <string name="expand_all">Expand all</string>
+
+    <string name="food_spot">Girls</string>
+    <string name="hospitals">Men</string>
+    <string name="reatiler_heading">Grow Your Fashion</string>
+    <string name="reatiler_tagine">We Will help you to grow Your Fashion</string>
+    <string name="enter_username">Enter user name </string>
+    <string name="enter_password">Enter Password </string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="enter_email">Enter email</string>
+
+
+</resources>
